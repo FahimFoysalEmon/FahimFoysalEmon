@@ -4,7 +4,7 @@
 
 **Backend Software Engineer — Fintech & Payments** · Open to remote roles
 
-I build secure, reliable financial systems: transaction engines, payments, ledgers, IPN reconciliation, and third-party API integrations. **5 years** in production fintech experience, now working at **PalmPay** · **Dhaka**.
+I build secure, reliable financial systems: transaction engines, payments, ledgers, IPN reconciliation, and third-party API integrations. **5+ years** in production fintech experience, now working at **PalmPay** · **Dhaka**.
 
 Passionate about **data consistency**, concurrency-safe payment flows, mentoring engineers, and writing about backend systems.
 
